@@ -30,9 +30,6 @@ body {
     box-shadow: 0 20px 60px rgba(0,0,0,0.3);
 }
 
-
-
-
 .header {
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     color: #fff;
@@ -50,7 +47,6 @@ body {
     margin-top: 8px;
 }
 
-
 .login-panel {
     padding: 35px 30px 25px;
 }
@@ -66,7 +62,6 @@ body {
     font-weight: 600;
 }
 
-/* INPUTS */
 input[type="text"],
 input[type="password"],
 select {
@@ -100,7 +95,6 @@ select:focus {
     margin-right: 10px;
 }
 
-
 .form-group span {
     display: flex;
     align-items: center;
@@ -112,7 +106,6 @@ input[type="checkbox"] {
     margin-right: 10px;
 }
 
-/* BUTTON */
 input[type="submit"] {
     width: 100%;
     padding: 14px;
@@ -124,7 +117,6 @@ input[type="submit"] {
     font-weight: 600;
     cursor: pointer;
 }
-
 
 .links {
     text-align: center;
@@ -139,7 +131,6 @@ input[type="submit"] {
     font-size: 14px;
 }
 
-/* INFO */
 .info-section {
     background: #f8f9ff;
     padding: 20px 30px;
@@ -249,3 +240,4 @@ input[type="submit"] {
 </form>
 </body>
 </html>
+
